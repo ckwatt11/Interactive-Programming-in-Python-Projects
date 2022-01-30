@@ -1,4 +1,4 @@
-# Interactive-Programming-in-Python-Projects
+# Interactive-Programming-in-Python-MiniProjects
 
 
 All of these mini-projects were implemented in October 2017.
